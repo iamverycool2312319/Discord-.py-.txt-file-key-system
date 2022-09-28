@@ -34,3 +34,5 @@ async def claim(ctx, key,):
             f.write(line)
  else:
     await ctx.reply('Invalid!')
+   
+   bot.run"your bot token"
