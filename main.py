@@ -35,4 +35,4 @@ async def claim(ctx, key,):
  else:
     await ctx.reply('Invalid!')
    
-   bot.run"your bot token"
+   bot.run('your bot token')
